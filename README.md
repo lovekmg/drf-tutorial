@@ -1,2 +1,2 @@
 # drf-tutorial
-[django rest framework tutorial](https://github.com/lovekmg/drf-tutorial.git)
+[django rest framework tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
